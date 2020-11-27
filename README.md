@@ -16,3 +16,9 @@
 - Create jobs by filling forms
 - Delete jobs posted earlier
 
+
+<h3>Sign Up Page</h3>
+<img src = "images/github-Signup.jpeg">
+<h3>Index For Employee</h3>
+<h3>Index for Employer</h3>
+<h3>Job creation form</h3>
