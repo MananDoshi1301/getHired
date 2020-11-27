@@ -18,7 +18,10 @@
 
 
 <h3>Sign Up Page</h3>
-<img src = "images/github-Signup.jpeg">
+<img src = "images/Signup.jpeg" width = 700>
 <h3>Index For Employee</h3>
+<img src = "images/Employeeindex.jpeg" width = 700>
 <h3>Index for Employer</h3>
+<img src = "images/Employerindex.jpeg" width = 700>
 <h3>Job creation form</h3>
+<img src = "images/Createjob.jpeg" width = 700>
